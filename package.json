@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0",
+    "Buffer": "^0.0.0",
+    "ethereumjs-util": "^7.1.5",
+    "hdkey": "^2.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.2",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
